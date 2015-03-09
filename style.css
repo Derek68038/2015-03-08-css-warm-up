@@ -12,7 +12,7 @@ li {
   font-size: 85%;
 }
 
-body {
+.line {
   border-bottom: 2px solid;
   border-color: black;
 }
@@ -26,4 +26,66 @@ body {
 
 #red {
   color: red;
+}
+
+.box {
+  border: 1px solid;
+  background: rgb(0, 75, 150);
+  border-color: blue;
+  margin-right: 33%;
+  margin-left: 33%;
+  margin-top: 5%;
+}
+
+.text {
+  color: white;
+}
+
+#fb_top {
+  position: relative;
+  bottom: 7px;
+  left: 10px;
+}
+
+#email {
+  padding-right: 65px;
+}
+
+#fb_bottom {
+  position: relative;
+  bottom: -10px;
+  left: 10px;
+  color: rgb(200, 200, 200);
+}
+
+#log {
+  padding-left: 15px;
+  padding-right: 33px;
+}
+
+#field {
+  position: relative;
+  bottom: 51px;
+  left: 10px;
+}
+
+#input_left {
+  padding-right: 19px;
+}
+
+#input_right {
+  padding: 0;
+  border: 0;
+}
+
+#radio {
+  position: relative;
+  bottom: 59px;
+  left: 6px;
+}
+
+p {
+  position: relative;
+  bottom: 118px;
+  left: 322px;
 }
