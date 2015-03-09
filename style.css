@@ -39,6 +39,7 @@ li {
 
 .text {
   color: white;
+  margin-bottom: -100px;
 }
 
 #fb_top {
